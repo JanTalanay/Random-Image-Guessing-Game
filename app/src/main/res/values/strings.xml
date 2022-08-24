@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Random Image Guessing Game</string>
+    <string name="random_image">Random</string>
+    <string name="show_grape">Grape</string>
+    <string name="show_apple">Apple</string>
+    <string name="start_game">Start the Game</string>
+    <string name="stop_game">Stop the Game</string>
+</resources>
